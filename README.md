@@ -1,4 +1,11 @@
-# Project Name:Entertainment events(Golf Club)
+# Project Details
+
+Here we have a navber and many routes called Home About Contact Login Register.At the bottom there is category waz some data and there is a button called view details.If the user is logged in then clicking on Beautiful will show the details and take to the Otherwise login router.A user cannot register twice with the same email and cannot login without registration.
+Then in the section we have some data called our package means how our packages work.
+Then we have a table of our latest customers.
+By clicking on About Router, if the user is logged in, he will not be able to see our details or he will be taken to the login route.Go to the contact round to get an idea of ​​how to contact us.Users can also login with Google if they want.
+
+
 # Live Link:https://react-setup-projects.web.app/
 
 # Five Feature of this Project.
